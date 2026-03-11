@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System – SQL Data Analysis Project
+# 🏥 Hospital Management System – SQL Project
 
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Database](https://img.shields.io/badge/Database-Relational-green)
